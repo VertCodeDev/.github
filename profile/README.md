@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.vertcodedevelopment.com/VertCode_Dev_Text.png" alt="VCD Banner"/>
+  <img src="https://cdn.vertcodedevelopment.com/vcd-banner.png" alt="VCD Banner"/>
 </p>
 
 ## About VertCode Development

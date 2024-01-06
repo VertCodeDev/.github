@@ -9,4 +9,4 @@ At VertCode Development, we build your software with a passion for excellence. W
 Check out our amazing projects we have made for our clients on https://vertcode.dev/! 
 
 ## Our Team
-- Founder & CEO - @VertCode
+- Founder & CEO - Wesley Breukers
